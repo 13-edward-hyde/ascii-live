@@ -1,7 +1,7 @@
 package frames
 
 // This is the value stored in the FrameMap
-var ARTIXtrend = DefaultFrameType(artix)
+var ARTIX = DefaultFrameType(artix)
 
 var artix = []string{
 `
